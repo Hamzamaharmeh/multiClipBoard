@@ -1,0 +1,17 @@
+.my-container {
+    -fx-padding: 5px;
+    -fx-end-margin: 5px;
+    -fx-start-margin: 5px;
+    -fx-border-color: -color-accent-emphasis;
+}
+.trans-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-border-radius: 6;
+    -fx-alignment: center-left;
+
+}
+.trans-button:hover {
+    -fx-background-color: transparent;
+    -fx-border-color: -color-accent-emphasis;
+}
